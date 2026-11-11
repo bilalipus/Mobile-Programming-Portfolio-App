@@ -5,6 +5,7 @@ This mobile application allows users to track their investments across multiple 
 ## Contributors
 * Bilal Aytepe 23058002
 * Tayfur Durlanık 22058020
+* Gemini and Figma AI also used.
 
 # Figma Links
 * https://www.figma.com/design/X0nQiwhuBcKXb1ha8SyQ9T/Portfolio-and-Risk-Management-App?node-id=0-1&t=FJPlks42g8Hpw5jh-1
